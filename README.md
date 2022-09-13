@@ -1,3 +1,17 @@
 # BotDiscord
 
 __Necesitas: node.js(compilador de JavaScript) y cuenta una activa [discord](https://discord.com)__
+
+1. Crear una nueva aplicación en discord con la sesion iniciada:
+
+![image](https://user-images.githubusercontent.com/99162884/189795143-c44e4247-276b-4249-9027-5b1a797e3bd2.png)
+
+![image](https://user-images.githubusercontent.com/99162884/189795364-2718aacf-7245-406b-bbfc-fd8e718a6f02.png)
+
+![image](https://user-images.githubusercontent.com/99162884/189795427-1ee124a9-a047-4b7f-a249-bdb2de7ec6d2.png)
+
+2. Entrar en app y crear un bot de la aplicación:
+
+![image](https://user-images.githubusercontent.com/99162884/189795614-3867ed6d-fdaf-454e-a207-48b701250cc5.png)
+
+3. Crear un token
