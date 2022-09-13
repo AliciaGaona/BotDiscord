@@ -1,3 +1,3 @@
 # BotDiscord
 
-Necesitas: node.js y cuenta activa discord
+__Necesitas: node.js(compilador de JavaScript) y cuenta una activa [discord](https://discord.com)__
