@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AliciaGaona/BotDiscord/issues"
   },
-  "homepage": "https://github.com/AliciaGaona/BotDiscord#readme"
+  "homepage": "https://github.com/AliciaGaona/BotDiscord#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
 }
