@@ -15,3 +15,10 @@ __Necesitas: node.js(compilador de JavaScript) y cuenta una activa [discord](htt
 ![image](https://user-images.githubusercontent.com/99162884/189795614-3867ed6d-fdaf-454e-a207-48b701250cc5.png)
 
 3. Crear un token
+
+4. Crear una invitación que le permita agregar los grupos(servidores) de Discord del bot.
+
+
+![image](https://user-images.githubusercontent.com/99162884/190300970-e54b13a9-99d6-4f7c-b1a6-f493c8bff587.png)
+
+
