@@ -1,5 +1,10 @@
 # BotDiscord
 
+## Objetivo:
+
+Crear bot de discord para enviar mensaje cueando git action detecte un push
+
+
 __Necesitas: node.js(compilador de JavaScript) y cuenta una activa [discord](https://discord.com)__
 
 
@@ -12,6 +17,7 @@ npm install discord.js
 __dotenv__
 
 npm install dotenv --save
+
 
 
 ## Instrucciones:
