@@ -15,3 +15,19 @@ __Necesitas: node.js(compilador de JavaScript) y cuenta una activa [discord](htt
 ![image](https://user-images.githubusercontent.com/99162884/189795614-3867ed6d-fdaf-454e-a207-48b701250cc5.png)
 
 3. Crear un token
+
+4. Crear una invitación que le permita agregar los grupos(servidores) de Discord del bot.
+
+ En la pestaña OAuth2 del panel de aplicación, en URL Generator.
+ 
+ Selecciona bot.
+
+![image](https://user-images.githubusercontent.com/99162884/190301626-66440b3f-86cb-4937-bbc9-c2172768c0ef.png)
+
+
+Seleccione Administrador, que le dará a su bot permiso para realizar casi todas las acciones en los grupos.
+
+![image](https://user-images.githubusercontent.com/99162884/190301772-d3715531-3ce5-4d1a-bd62-3d86243332de.png)
+
+
+Copiar el enlace con el botón Copiar.
