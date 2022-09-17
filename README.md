@@ -49,5 +49,7 @@ Entrar a enlace y agregar bot a servidor(grupo).
 
 ![image](https://user-images.githubusercontent.com/99162884/190836944-850dd6b3-2075-42ef-8456-df9f9a50505b.png)
 
+![image](https://user-images.githubusercontent.com/99162884/190836968-0b724f21-aba0-4332-9260-ed9672e52f6d.png)
+
 
 
