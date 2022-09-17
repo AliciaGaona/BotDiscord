@@ -1,6 +1,27 @@
 # BotDiscord
 
+## Objetivo:
+
+Crear bot de discord para enviar mensaje cueando git action detecte un push
+
+
 __Necesitas: node.js(compilador de JavaScript) y cuenta una activa [discord](https://discord.com)__
+
+
+## Dependencias:
+
+__Discord__
+
+npm install discord.js
+
+__dotenv__
+
+npm install dotenv --save
+
+
+
+## Instrucciones:
+
 
 1. Crear una nueva aplicación en discord con la sesion iniciada:
 
@@ -30,4 +51,14 @@ Seleccione Administrador, que le dará a su bot permiso para realizar casi todas
 ![image](https://user-images.githubusercontent.com/99162884/190301772-d3715531-3ce5-4d1a-bd62-3d86243332de.png)
 
 
-Copiar el enlace con el botón Copiar.
+Entrar a enlace y agregar bot a servidor(grupo).
+
+![image](https://user-images.githubusercontent.com/99162884/190836944-850dd6b3-2075-42ef-8456-df9f9a50505b.png)
+
+![image](https://user-images.githubusercontent.com/99162884/190836968-0b724f21-aba0-4332-9260-ed9672e52f6d.png)
+
+Va a aparecer como desconectado
+
+![image](https://user-images.githubusercontent.com/99162884/190837156-563ae21a-6ccf-4776-9492-3c11d949beb6.png)
+
+
