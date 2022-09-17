@@ -51,5 +51,8 @@ Entrar a enlace y agregar bot a servidor(grupo).
 
 ![image](https://user-images.githubusercontent.com/99162884/190836968-0b724f21-aba0-4332-9260-ed9672e52f6d.png)
 
+Va a aparecer como desconectado
+
+![image](https://user-images.githubusercontent.com/99162884/190837156-563ae21a-6ccf-4776-9492-3c11d949beb6.png)
 
 
