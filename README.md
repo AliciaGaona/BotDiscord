@@ -45,4 +45,9 @@ Seleccione Administrador, que le dará a su bot permiso para realizar casi todas
 ![image](https://user-images.githubusercontent.com/99162884/190301772-d3715531-3ce5-4d1a-bd62-3d86243332de.png)
 
 
-Copiar el enlace con el botón Copiar.
+Entrar a enlace y agregar bot a servidor(grupo).
+
+![image](https://user-images.githubusercontent.com/99162884/190836944-850dd6b3-2075-42ef-8456-df9f9a50505b.png)
+
+
+
