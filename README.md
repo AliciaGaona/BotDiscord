@@ -14,6 +14,8 @@ __dotenv__
 npm install dotenv --save
 
 
+## Instrucciones:
+
 
 1. Crear una nueva aplicación en discord con la sesion iniciada:
 
