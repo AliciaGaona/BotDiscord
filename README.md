@@ -2,6 +2,19 @@
 
 __Necesitas: node.js(compilador de JavaScript) y cuenta una activa [discord](https://discord.com)__
 
+
+## Dependencias:
+
+__Discord__
+
+npm install discord.js
+
+__dotenv__
+
+npm install dotenv --save
+
+
+
 1. Crear una nueva aplicación en discord con la sesion iniciada:
 
 ![image](https://user-images.githubusercontent.com/99162884/189795143-c44e4247-276b-4249-9027-5b1a797e3bd2.png)
