@@ -16,6 +16,8 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+
+      # enviar mensaje a api discord...
       - run: echo "Hey team! Tenemos cambios en master"
       - run: echo "🚨🚨🚨🚨🚨🚨🚨"
       - run: echo "Favor de actualizar master local"
