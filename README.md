@@ -62,3 +62,8 @@ Va a aparecer como desconectado
 ![image](https://user-images.githubusercontent.com/99162884/190837156-563ae21a-6ccf-4776-9492-3c11d949beb6.png)
 
 
+
+
+## Git Actions
+
+(GitActions quickstart)[https://docs.github.com/es/actions/quickstart]
