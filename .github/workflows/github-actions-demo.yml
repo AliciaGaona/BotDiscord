@@ -1,5 +1,4 @@
 name: GitHub Actions Demo
-# cuando se de push...
 on: [push] dd
 jobs:
   Explore-GitHub-Actions:
@@ -16,9 +15,3 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-
-      # enviar mensaje a api discord...
-      - run: echo "Hey team! Tenemos cambios en master"
-      - run: echo "🚨🚨🚨🚨🚨🚨🚨"
-      - run: echo "Favor de actualizar master local"
-      - run: echo "🚨🚨🚨🚨🚨🚨🚨"
